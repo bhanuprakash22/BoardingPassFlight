@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "906808997270",
+    "firebase_url": "https://sristi-911e8.firebaseio.com",
+    "project_id": "sristi-911e8",
+    "storage_bucket": "sristi-911e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906808997270:android:533dbf2307a181dc",
+        "android_client_info": {
+          "package_name": "com.everything22.bhanuprakashreddy.shristi_bordingpassforflight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906808997270-db0p56f44l1852fsp0e12nn55r1kuiuj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIZXOgwVdQWtb4JOq_Tt10dFpBAQ__qBM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906808997270:android:9077333b1730d242",
+        "android_client_info": {
+          "package_name": "com.everything22.bhanuprakashreddy.boardingpassflight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906808997270-db0p56f44l1852fsp0e12nn55r1kuiuj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIZXOgwVdQWtb4JOq_Tt10dFpBAQ__qBM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
